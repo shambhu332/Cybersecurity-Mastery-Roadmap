@@ -674,8 +674,14 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
     - Implement IoT security controls
 
 - **Mobile Security**
-  - [OWASP Mobile Security Testing Guide](https://owasp.org/www-project-mobile-security-testing-guide/)
-  - [Mobile Application Security Verification Standard](https://github.com/OWASP/owasp-masvs)
+  - 📖 **[Mobile Penetration Testing & Tester Hub](./mobile-penetration-testing/README.md)**
+    - 🤖 **[Android Penetration Testing Guide](./mobile-penetration-testing/android/README.md)**
+    - 🍎 **[iOS Penetration Testing Guide](./mobile-penetration-testing/ios/README.md)**
+    - 🎓 **[Becoming a Mobile Pentester: Career & Consulting Guide](./mobile-penetration-testing/becoming-a-mobile-pentester.md)**
+  - [Hextree.io](https://hextree.io) - Modern hands-on Android security & reverse engineering
+  - [Mobile Hacking Lab](https://www.mobilehackinglab.com/) - Practical Android/iOS vulnerable lab challenges
+  - [Becoming a Mobile Pentester (JHalon)](https://jhalon.github.io/becoming-a-pentester/) - Canonical career & technical guide
+  - [OWASP Mobile Application Security (MAS)](https://mas.owasp.org/) (MASTG & MASVS)
   - [Android Security](https://source.android.com/security)
   - [iOS Security](https://support.apple.com/guide/security/welcome/web)
   - **Books**:
